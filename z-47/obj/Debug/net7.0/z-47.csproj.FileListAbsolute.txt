@@ -1,0 +1,15 @@
+C:\Users\CK\Desktop\dz_sem_7\z-47\bin\Debug\net7.0\z-47.exe
+C:\Users\CK\Desktop\dz_sem_7\z-47\bin\Debug\net7.0\z-47.deps.json
+C:\Users\CK\Desktop\dz_sem_7\z-47\bin\Debug\net7.0\z-47.runtimeconfig.json
+C:\Users\CK\Desktop\dz_sem_7\z-47\bin\Debug\net7.0\z-47.dll
+C:\Users\CK\Desktop\dz_sem_7\z-47\bin\Debug\net7.0\z-47.pdb
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.csproj.AssemblyReference.cache
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.AssemblyInfoInputs.cache
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.AssemblyInfo.cs
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.csproj.CoreCompileInputs.cache
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.dll
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\refint\z-47.dll
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.pdb
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\z-47.genruntimeconfig.cache
+C:\Users\CK\Desktop\dz_sem_7\z-47\obj\Debug\net7.0\ref\z-47.dll
